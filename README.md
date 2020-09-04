@@ -1,6 +1,4 @@
 # Cardio
 
-In this project I wanted to train models to predict risk of cardiovascular diseases. To do it I used dataset of 70 thousand patients
-(once again obtained from Kaggle) with features possible to obtain during simple physical examination. The results
-(similar to results of others) seem to be too low to use these predictions in a real life situations (probably we would need more features or bigger
-database) but could be useful for putting patients under further screening during routine visits at GP.
+In this project I predicted risk of cardiovascular diseases. To do this I used a dataset of 70 thousand patients obtained from Kaggle with features possible to measure during simple physical examination. The results seem to be too low to use these predictions in a real life situations. This was a general problem with this dataset, observed by others as well. Probably more features or their different selection could be beneficial.
+Now the model might be useful only for eventua putting patients under further screening after their routine visit at GP.
